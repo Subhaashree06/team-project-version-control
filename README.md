@@ -15,4 +15,5 @@ This repository demonstrates GitHub version control workflow using branches and 
 5. Resolve conflicts manually if any.
 6. Merge into main branch.
 7. This file was edited locally using Git.
+8. This README file was edited locally using Git Bash.
 
