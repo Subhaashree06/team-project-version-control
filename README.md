@@ -1,6 +1,7 @@
 # Team Project Version Control
 
 Main and UI updates merged successfully.
+
 # Team Project Version Control - Main Branch Update
 
 This repository demonstrates GitHub version control workflow using branches and pull requests.
@@ -13,3 +14,5 @@ This repository demonstrates GitHub version control workflow using branches and 
 4. Review and approve changes.
 5. Resolve conflicts manually if any.
 6. Merge into main branch.
+7. This file was edited locally using Git.
+
